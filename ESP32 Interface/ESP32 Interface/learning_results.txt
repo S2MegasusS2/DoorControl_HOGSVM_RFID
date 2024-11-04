@@ -1,0 +1,36 @@
+NgoLeTuyetHoa:
+  Total learns: 3
+  Successful learns: 3
+  Failed learns: 0
+  Success rate: 100.00%
+
+NguyenQuangPhuoc:
+  Total learns: 61
+  Successful learns: 61
+  Failed learns: 0
+  Success rate: 100.00%
+
+NguyenThaiSon:
+  Total learns: 34
+  Successful learns: 20
+  Failed learns: 14
+  Success rate: 58.82%
+
+PhamNguyenTanPhat:
+  Total learns: 69
+  Successful learns: 65
+  Failed learns: 4
+  Success rate: 94.20%
+
+Thu:
+  Total learns: 164
+  Successful learns: 164
+  Failed learns: 0
+  Success rate: 100.00%
+
+VoMinhMan:
+  Total learns: 176
+  Successful learns: 176
+  Failed learns: 0
+  Success rate: 100.00%
+
